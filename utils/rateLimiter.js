@@ -8,7 +8,7 @@ const limiter = rateLimit({
     code: 429,
     message: "Too many requests, please try again later.",
   },
-  headers: true, // Include rate limit headers
+  headers: true, 
   keyGenerator: (req) => req.ip, // Use IP address for tracking
 });
 

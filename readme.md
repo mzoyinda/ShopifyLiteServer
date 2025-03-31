@@ -4,11 +4,11 @@ ShopifyLite Server is a A lightweight and efficient e-commerce backend API built
 
 ### Features
 
-✅ Product Management: Create, Read, Update, and Delete products.
-✅ Pagination Support: Fetch products with pagination controls.
-✅ Rate Limiting: Prevent API abuse with request limits.
-✅ Error Handling: Consistent and structured error responses.
-✅ DRY Controllers: Optimized controllers using helper functions.
+- ✅ Product Management: Create, Read, Update, and Delete products.
+- ✅ Pagination Support: Fetch products with pagination controls.
+- ✅ Rate Limiting: Prevent API abuse with request limits.
+- ✅ Error Handling: Consistent and structured error responses.
+- ✅ DRY Controllers: Optimized controllers using helper functions.
 
 ### Technologies Used
 
@@ -68,7 +68,7 @@ RATE_LIMIT_MAX=100
 
 ### Deployment
 
-This project is deployed on Render using GitHub Actions.
+This project is deployed on Render.
 
 
 ### License
